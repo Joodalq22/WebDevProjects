@@ -1,0 +1,52 @@
+/* Jack's coffee shop*/
+body{color: #330000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffffcc;
+    
+    }
+    
+    header,footer{background-color: #ccaa66;
+        text-align: center;
+        border-bottom: 2px double black;
+    
+    }
+    
+        header{
+    
+            border-top: 3px solid black;
+        }
+    
+        footer{
+            border-top: 2px double black;
+           
+    
+            }
+    
+        #leftcolumn {
+            background-color: #c6b971;
+            float: left;
+            width: 150px;
+            padding-top: 10px;
+           
+            }
+    
+            
+    
+        #rightcolumn{
+            background-color: #f1e8b0;
+            margin-left: 150px;
+            padding: 10px;
+         
+            }
+            
+        .navBar a {
+            text-decoration: none ; 
+            margin: 15px; 
+            display:block; 
+            background-color: #f2df74
+        }
+    
+        .flotRight{
+            padding-left:40px; 
+            float:right
+        }

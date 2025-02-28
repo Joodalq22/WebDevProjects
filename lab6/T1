@@ -1,0 +1,31 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        var Grade = window.prompt("Enter ur Grade: ");
+        document.writeln("your grade is: " + Grade);
+        if (Grade < 101) {
+
+            if (Grade == 100) { document.writeln("Super, you have 100"); }
+            if (Grade < 100) {
+                if (Grade >= 95) { document.writeln("excellent work!! ur score bettween 99-95"); }
+                else {
+                    if (Grade >= 90) { document.writeln("great work ur score between 95-90"); }
+                    else { document.writeln("ur score below 90!"); }
+                }
+            }
+
+
+        }
+        else {
+            document.writeln("Terrific!!!!!! You have Over 100!!!")
+        }
+
+
+    </script>
+    </head>
+    <body>
+   
+</body>
+</html>  

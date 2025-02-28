@@ -1,0 +1,23 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade</title>
+    <script>
+        var num1=window.prompt("enter the 1st number");
+        var num2=window.prompt("enter the 2nd number");
+        var num3=window.prompt("enter the 3rd number");
+
+        var x=parseInt(num1);
+        var y=parseInt(num2);
+        var z=parseInt(num3);
+
+        var product=x*y*z;
+        document.writeln("the product="+product)
+
+        </script>
+        </head>
+        <body>
+
+
+</body>
+</html>

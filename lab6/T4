@@ -1,0 +1,21 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade</title>
+   
+   <script>
+    var fname=prompt("Enter first name");
+    var lname=prompt("Enter first name");
+
+    var day=new Date();
+
+    var days= ["Sun", "Mon", "Tue", "Wed","Thu", "Fri", "Sat"];
+
+    document.writeln("Hello"+fname+" " +lname+ "Today is"+days+"anf the current date is"+ d);
+
+</script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,58 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jacks coffe shop</title>
+    <link rel="Stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body>
+    <header>
+        <h1>
+        Jake's Coffee Shop
+        </h1>
+        <time>2025-02-05</time>
+    </header>
+    <section id="leftcolumn">
+        
+        <nav class="navBar">
+            <a href="#"> HOME </a>
+            <a href="#"> Menue </a>
+            <a href="#"> Music </a>
+            <a href="#"> Jobs </a>
+        </nav>
+    </section>
+
+    <section id="rightcolumn">
+        <p>
+            Come in and experince
+        </p>
+
+
+    <img class="flotRight" src="https://th.bing.com/th/id/OIF.2P4XLGamgaxgdqHbSGuWMA?rs=1&amp;pid=ImgDetMain" alt="Coffe photo" width="200px" height="200px">
+
+            <ul>
+        <li>Specialty Coffee and Tea </li>
+        <li>Freshly made sandwiches</li> 
+        <li>Bagels, Muffins, and Organic Snacks </li>
+        <li>Music and Poetry Readings </li>
+        <li>Open mic nights</li> 
+            </ul>
+
+            <p>
+                23 Prine Road <br> Nottingham, NG1 5YU <br> 0115 9324567
+            </p>
+
+
+    </section>
+
+    <footer>
+        <h6>Copyright © 2011 Jake's Coffee House</h6>
+         <address>
+        <em> contact us at <a href="#">jakes@jcofee.com</a> </em>
+    </address>
+    </footer>
+    
+   
+
+</body></html>
